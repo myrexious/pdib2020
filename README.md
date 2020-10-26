@@ -1,2 +1,2 @@
-# pdib2020
+# PDIB-2020
 Repository for Business Intelligence and Data Mining course in 2020
